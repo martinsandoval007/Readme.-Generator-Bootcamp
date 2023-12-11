@@ -8,6 +8,8 @@ Help people create a readme quickly and efficently
 run node index.js
 ## resources 
 I got help from UTA-bootcamp x-pert learning assiastant it helped me with the generate readme and the write to file
+Sceenify to record video
+Google drive to share video
 
   
 
